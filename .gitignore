@@ -1,0 +1,31 @@
+# GROMACS trajectories and large binary outputs
+*.xtc
+*.trr
+*.tng
+*.edr
+*.cpt
+*.tpr
+
+# Common generated GROMACS coordinate/topology files
+# Uncomment these if you do not intend to version input topology artifacts.
+# *.gro
+# *.top
+# *.itp
+
+# Analysis output
+*.xvg
+*.log
+
+# Temporary / backup files
+*.tmp
+*.bak
+*.orig
+*~
+
+# Python/editor/system files
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

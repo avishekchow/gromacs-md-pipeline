@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "GROMACS MD Pipeline"
+message: "If you use these workflows in your research, please cite this repository and the associated publication where applicable."
+type: software
+authors:
+  - family-names: Chowdhury
+    given-names: Avishek
+repository-code: "https://github.com/avishekchow/gromacs-md-pipeline"
+license: MIT
